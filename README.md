@@ -1,1 +1,1 @@
-# Shark-attack
+# This project's goal is to clean and manipulate a large data set related to shark attacks globally registered along different years. We used the data provided to establish a relation between countrys and gender where the attacks were perpetrated, as well as, the activity these people was practicing at that moment.
